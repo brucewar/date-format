@@ -1,0 +1,10 @@
+{
+  "name": "date-format",
+  "version": "0.1.0",
+  "description": "Date format util for nodejs server",
+  "author": {
+    "name": "BruceWar",
+    "email": "wjl891014@gmail.com"
+  },
+  "main": "index"
+}
